@@ -1,0 +1,14 @@
+h1 {
+  color: grey; }
+
+.msg {
+  font-size: 16px;
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.img-frame {
+  width: 200px; }
+
+.header-nav {
+  background-color: orange;
+  display: flex; }
